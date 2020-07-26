@@ -1,2 +1,9 @@
-# rollup-tpl
-build component with rollup
+# 61-rollupt-template
+## 安装
+```
+npm run install
+```
+## 打包
+```
+npm run build
+```

@@ -1,5 +1,3 @@
-console.log('hello')
-
 class Hello {
   constructor(props) {
     this.name = props
@@ -9,7 +7,7 @@ class Hello {
   }
 }
 
-let hello = new Hello('ni hao')
+let hello = new Hello('hh ni hao , lj')
 
 hello.say()
 

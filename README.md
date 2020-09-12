@@ -1,4 +1,4 @@
-# 61-rollupt-template
+# rollup-tpl
 ## 安装
 ```
 npm run install
